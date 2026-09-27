@@ -446,7 +446,7 @@ const OrderSuccess = () => {
                 </section>
 
 
-                {/* ───────────── FOOTER ACTIONS ───────────── */}
+                {/*FOOTER ACTIONS */}
 
                 <section className="border-t border-black/10 py-10 md:py-12">
 
@@ -482,7 +482,7 @@ const OrderSuccess = () => {
             </main>
 
 
-            {/* ───────────────── FOOTER ───────────────── */}
+            {/*FOOTER */}
 
             <footer className="border-t border-black/10">
 
